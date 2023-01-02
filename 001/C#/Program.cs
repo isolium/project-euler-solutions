@@ -28,7 +28,7 @@ namespace Test
 
             Console.WriteLine();
 
-            // Solution 3: arithmetic approach; most efficient
+            // Solution 2: arithmetic approach; most efficient
             sw = Stopwatch.StartNew();
             int SumDivisbleBy(int n, int p)
             {

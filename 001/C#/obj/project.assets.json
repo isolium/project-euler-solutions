@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sp\\Desktop\\Problem1\\Problem1.csproj",
+      "projectUniqueName": "C:\\Users\\sp\\Desktop\\project-euler\\001\\C#\\Problem1.csproj",
       "projectName": "Problem1",
-      "projectPath": "C:\\Users\\sp\\Desktop\\Problem1\\Problem1.csproj",
+      "projectPath": "C:\\Users\\sp\\Desktop\\project-euler\\001\\C#\\Problem1.csproj",
       "packagesPath": "C:\\Users\\sp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sp\\Desktop\\Problem1\\obj\\",
+      "outputPath": "C:\\Users\\sp\\Desktop\\project-euler\\001\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sp\\AppData\\Roaming\\NuGet\\NuGet.Config",
