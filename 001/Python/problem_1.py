@@ -13,7 +13,7 @@ print("TIME: {}ms".format(exec_time))
 
 print()
 
-# Solution 3: arithmetic approach; efficient
+# Solution 2: arithmetic approach; efficient
 start_time = time.perf_counter()
 def sum_divisible_by(n, p):
     return n*(p//n)*((p//n)+1)//2
