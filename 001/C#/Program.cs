@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Linq;
 using System.Diagnostics;
 
 namespace Test
 {
-    class program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -15,10 +14,7 @@ namespace Test
             int sum = 0;
             for (int i = 1; i < 1000; i++)
             {
-                if (i % 3 == 0 || i % 5 == 0)
-                {
-                    sum += i;
-                }
+                if (i % 3 == 0 || i % 5 == 0) sum += i;
             }
             Console.WriteLine("- Solution 1 -");
             Console.Write("RESULT: ");
